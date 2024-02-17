@@ -1,0 +1,42 @@
+h1{
+    font-family: "Open Sans Bold";
+    color: white;
+    margin-left: 1vw;
+}
+
+h2{
+    font-family: "Open Sans";
+    font-weight: lighter;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-family: "Open Sans";
+    color: white;
+}
+
+main > div > article{
+    padding-bottom: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+main > div > article > div > a > label{
+    font-family: "Open Sans";
+    color: #52d2d2;
+}
+
+main > div > article > img{
+    max-width: 20vw;
+}
+
+footer{
+    margin-top: 9.5vh;
+}
+

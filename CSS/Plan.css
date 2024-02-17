@@ -1,0 +1,14 @@
+h1,h2,li,a,p{
+    color: white;
+    font-family: "Open Sans";
+    text-decoration: #1e5b67;
+}
+
+h1,h2,ul,p{
+    margin-left: 1vw;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}

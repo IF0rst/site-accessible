@@ -1,0 +1,50 @@
+main > form {
+    text-align: center;
+    margin-top: 20vh;
+}
+
+main > form  > h1 {
+    font-family: "Open Sans Bold";
+    color: white;
+}
+
+main > form > div{
+    margin-top: 3vh;
+}
+
+main > form > div > input {
+    background: rgba(77, 77, 77, 0);
+    border: 0;
+    border-bottom: 1px solid white;
+    height: 5vh;
+    width: 20vw;
+    outline: none;
+    color: white;
+    font-family: "Open Sans Bold";
+}
+
+main > form > #buttons > input,button{
+    margin-top: 3vh;
+    border: none;
+    height: 6vh;
+    width: 22vh;
+    color: white;
+    font-family: "Open Sans Bold";
+}
+
+main > form > #buttons > #submit{
+    background: #1e5b67;
+}
+
+main > form > #buttons > #reset{
+    background: #7c203b;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
+
+header > nav > a {
+    visibility: hidden;
+}

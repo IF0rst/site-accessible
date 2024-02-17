@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background: #262626;
+}
+
+/* Navbar style */
+
+header > nav {
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+header > nav > img {
+    max-width: 10vh;
+}
+
+header > nav > a {
+    margin-right: 1vw;
+    font-family: "Open Sans Bold";
+    color: white;
+    text-decoration: none;
+}
+
+/* Za footer */
+
+footer > label{
+    color: white;
+    font-family: "Open Sans";
+    font-weight: lighter;
+    font-size: small;
+}

@@ -1,0 +1,45 @@
+h1,h2,main > article > p{
+    color: white;
+    margin-left: 1vw;
+}
+
+h1,h2{
+    font-family: "Open Sans Bold";
+}
+
+p,h3{
+    font-family: "Open Sans";
+    color: white;
+}
+
+#Comments > div{
+    width: 97.5%;
+    margin-left: 1vw;
+    background: #1c1c1c;
+    padding-left: 0.5vw;
+    background: #212121;
+}
+
+
+table {
+    color: white;
+    font-family: "Open Sans";
+    margin-left: 1vw;
+    margin-top: 5vh;
+    width: 98%;
+    margin-bottom: 4vw;
+}
+
+th{
+    background: #1e5b67;
+    height: 4vh;
+}
+
+td{
+    background: #16454f;
+}
+
+footer{
+    margin-top: 9.5vh;
+}
+
